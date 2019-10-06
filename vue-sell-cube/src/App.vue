@@ -15,6 +15,8 @@ import VHeader from "components/v-header/v-header";
 import Tab from "components/tab/tab";
 import { getSeller } from "api";
 
+// xiaoxin13pro
+
 export default {
   name: "app",
   components: {
